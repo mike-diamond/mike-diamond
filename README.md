@@ -19,5 +19,5 @@ DeFi UX & wallet integrations · Staking infrastructure (LSD, restaking) · Deve
 **Open to advisory & fractional Web3 frontend roles.** DM me.
 ---
 
-![Followers](https://img.shields.io/github/followers/mike-diamond?style=social)
+![Followers](https://img.shields.io/github/followers/mike-diamond?label=Follow&style=social)
 ![Stars](https://img.shields.io/github/stars/mike-diamond?style=social)
