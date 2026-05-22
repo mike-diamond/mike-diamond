@@ -1,5 +1,7 @@
 ### 👋 Mike Diamond
 
+**Author of [ERC-8265](https://github.com/ethereum/ERCs/pull/1753)** (Prepared Transaction Envelope) — under editor review at `ethereum/ERCs`
+
 Web3 Dev **[@stakewise](https://github.com/stakewise)** · Building **[txKit](https://github.com/txkit)**: Stripe Elements for Web3
 
 **15+ years frontend** · Deep in Web3 infra · Based in Europe
@@ -10,7 +12,7 @@ Web3 Dev **[@stakewise](https://github.com/stakewise)** · Building **[txKit](ht
 
 #### 🎯 Focus
 
-DeFi UX & wallet integrations · Staking infrastructure (LSD, restaking) · Developer tooling for Web3 frontends
+DeFi UX & wallet integrations · Staking infrastructure (LSD, restaking) · Developer tooling for Web3 frontends · Transaction safety standards (ERC-8265)
 
 #### 📬 Find me
 
