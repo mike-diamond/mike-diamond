@@ -1,6 +1,6 @@
 ### 👋 Mike Diamond
 
-**Author of [ERC-8265](https://github.com/ethereum/ERCs/pull/1753)** (Prepared Transaction Envelope) — under editor review at `ethereum/ERCs`
+**Author of [ERC-8265](https://github.com/ethereum/ERCs/pull/1753)** (Prepared Transaction Envelope) - a proposed standard for what an AI agent must show you before it signs. Draft, awaiting editor review at `ethereum/ERCs`. Reference impl: [txkit.dev](https://txkit.dev) · [discussion](https://ethereum-magicians.org/t/erc-8265-prepared-transaction-envelope/28557)
 
 Web3 Dev **[@stakewise](https://github.com/stakewise)** · Building **[txKit](https://github.com/txkit)**: Stripe Elements for Web3
 
